@@ -19,8 +19,14 @@
 	},
 	{
 		"venue": "MLSP",
-		"area": "Machine Learning; Signal Processing",
+		"area": "Machine Learning for Signal Processing",
 		"deadline": "5/1/2016 23:59:59 UTC",
 		"link": "http://mlsp2016.conwiz.dk/"
+	},
+	{
+		"venue": "ECAI",
+		"area": "AI",
+		"deadline": "4/15/2016 23:59:59 UTC+1",
+		"link": "http://www.ecai2016.org"
 	}
 ]
