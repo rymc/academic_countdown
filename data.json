@@ -28,5 +28,17 @@
 		"area": "AI",
 		"deadline": "4/15/2016 23:59:59 UTC+1",
 		"link": "http://www.ecai2016.org"
+	},
+	{
+		"venue": "ICML",
+		"area": "Machine Learning",
+		"deadline": "2/5/2016 23:59 UTC",
+		"link": "http://icml.cc"
+	},
+	{
+		"venue": "KDD",
+		"area": "Data Mining",
+		"deadline": "2/12/2016 23:59 UTC-8",
+		"link": "http://www.kdd.org"
 	}
 ]
