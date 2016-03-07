@@ -16,5 +16,11 @@
 		"area": "Machine Learning",
 		"deadline": "5/20/2016 16:00 UTC",
 		"link": "https://nips.cc/Conferences/2016"
+	},
+	{
+		"venue": "MLSP",
+		"area": "Machine Learning; Signal Processing",
+		"deadline": "5/1/2016 23:59:59 UTC",
+		"link": "http://mlsp2016.conwiz.dk/"
 	}
 ]
