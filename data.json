@@ -40,5 +40,11 @@
 		"area": "Data Mining",
 		"deadline": "2/12/2016 23:59 UTC-8",
 		"link": "http://www.kdd.org"
+	},
+	{
+		"venue": "UAI", 
+		"area": "Machine Learning", 
+		"deadline": "3/1/2016 11:59pm UTC",
+		"link": "http://auai.org/"
 	}
 ]
