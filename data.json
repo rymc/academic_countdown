@@ -1,5 +1,11 @@
 [
 	{
+		"venue": "AISTATS",
+		"area": "Machine Learning",
+		"deadline": "11/9/2016",
+		"link": "http://www.aistats.org/"
+	},
+	{
 		"venue": "TechAAL",
 		"area": "Active and Assited Living",
 		"deadline": "7/15/2016 23:59 UTC",
