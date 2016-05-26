@@ -1,5 +1,17 @@
 [
 	{
+		"venue": "TechAAL",
+		"area": "Active and Assited Living",
+		"deadline": "7/15/2016 23:59 UTC",
+		"link": "http://www.theiet.org/events/tpn/techaal/author-information.cfm"
+	},
+	{
+		"venue": "ACML",
+		"area": "Machine Learning",
+		"deadline": "8/15/2016 23:59 UTC-8"
+		"link": "http://www.acml-conf.org/2016/"
+	},
+	{
 		"venue": "IJCAI",
 		"area": "AI",
 		"deadline": "1/27/2016 23:59 UTC+12",
