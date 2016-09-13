@@ -1,5 +1,11 @@
 [
 	{
+		"venue": "SDM",
+		"area": "Data Mining",
+		"deadline": "8/10/2016",
+		"link": "http://www.siam.org/meetings/sdm17/"
+	},
+	{
 		"venue": "ICDM",
 		"area": "Data Mining",
 		"deadline": "6/18/2016",
