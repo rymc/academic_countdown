@@ -12,10 +12,28 @@
 		"link": "http://www.aaai.org/Conferences/AAAI/aaai17.php"
 	},
 	{
+	    "venue": "ICLR",
+	    "area": "Learning Representations",
+	    "deadline": "11/5/2016 UTC-5",
+	    "link": "http://www.iclr.cc/"
+	},
+	{
 		"venue": "AISTATS",
 		"area": "Machine Learning",
 		"deadline": "11/9/2016",
 		"link": "http://www.aistats.org/"
+	},
+	{
+	    "venue": "ESANN",
+	    "area": "European Symposium on Artificial Neural Networks",
+	    "deadline": "11/26/2016",
+	    "link": "https://www.elen.ucl.ac.be/esann/"
+	},
+	{
+	    "venue": "SPARS",
+	    "area": "Signal Processing with Adaptive Sparse Structured Representations",
+	    "deadline": "12/12/2016",
+	    "link": "http://spars2017.lx.it.pt/"
 	},
 	{
 		"venue": "TechAAL",
@@ -32,14 +50,14 @@
 	{
 		"venue": "IJCAI",
 		"area": "AI",
-		"deadline": "1/27/2016 23:59 UTC+12",
-		"link": "http://ijcai-16.org"
+		"deadline": "2/19/2017 23:59 UTC+12",
+		"link": "http://ijcai-17.org"
 	},
 	{
 		"venue": "ECML-PKDD",
 		"area": "Machine Learning",
-		"deadline": "4/1/2016 23:59 UTC+1",
-		"link": "http://ecmlpkdd2016.org"
+		"deadline": "20/4/2017 23:59 UTC+1",
+		"link": "http://ecmlpkdd2017.ijs.si"
 	},
 	{
 		"venue": "NIPS",
