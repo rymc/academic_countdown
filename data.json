@@ -3,49 +3,49 @@
 		"venue": "SDM",
 		"area": "Data Mining",
 		"deadline": "8/10/2016",
-		"link": "http://www.siam.org/meetings/sdm17/"
+		"link": "http://www.siam.org/meetings/sdm17/",
+		"location": "Houston, Texas, USA"
 	},
 	{
 		"venue": "ICDM",
 		"area": "Data Mining",
 		"deadline": "6/18/2016",
-		"link": "http://icdm2016.eurecat.org/"
+		"link": "http://icdm2016.eurecat.org/",
+		"location": "Barcelona, Spain"
 	},
 	{
 		"venue": "AAAI",
 		"area": "AI",
 		"deadline": "9/9/2016",
-		"link": "http://www.aaai.org/Conferences/AAAI/aaai17.php"
+		"link": "http://www.aaai.org/Conferences/AAAI/aaai17.php",
+		"location": "San Francisco, California USA"
 	},
 	{
 	    "venue": "ICLR",
 	    "area": "Learning Representations",
 	    "deadline": "11/5/2016 UTC-5",
-	    "link": "http://www.iclr.cc/"
+	    "link": "http://www.iclr.cc/",
+		"location": "Toulon, France"
 	},
 	{
 		"venue": "AISTATS",
 		"area": "Machine Learning",
 		"deadline": "11/9/2016",
-		"link": "http://www.aistats.org/"
+		"link": "http://www.aistats.org/",
+		"location": "Fort Lauderdale, Florida, USA"
 	},
 	{
 	    "venue": "ESANN",
 	    "area": "European Symposium on Artificial Neural Networks",
 	    "deadline": "11/26/2016",
-	    "link": "https://www.elen.ucl.ac.be/esann/"
+	    "link": "https://www.elen.ucl.ac.be/esann/",
+		"location": "Bruges, Belgium"
 	},
 	{
 	    "venue": "SPARS",
 	    "area": "Signal Processing with Adaptive Sparse Structured Representations",
 	    "deadline": "12/12/2016",
 	    "link": "http://spars2017.lx.it.pt/"
-	},
-	{
-		"venue": "TechAAL",
-		"area": "Active and Assited Living",
-		"deadline": "7/15/2016 23:59 UTC",
-		"link": "http://www.theiet.org/events/tpn/techaal/author-information.cfm"
 	},
 	{
 		"venue": "ACML",
@@ -64,42 +64,49 @@
 		"venue": "ECML-PKDD",
 		"area": "Machine Learning",
 		"deadline": "4/20/2017 23:59 UTC+1",
-		"link": "http://ecmlpkdd2017.ijs.si"
+		"link": "http://ecmlpkdd2017.ijs.si",
+		"location": "Scopje, Macedonia"
 	},
 	{
 		"venue": "NIPS",
 		"area": "Machine Learning",
-		"deadline": "5/20/2016 16:00 UTC",
-		"link": "https://nips.cc/Conferences/2016"
+		"deadline": "6/1/2017 16:00 UTC",
+		"link": "https://nips.cc/Conferences/2017",
+		"location": "Long Beach, USA"
 	},
 	{
 		"venue": "MLSP",
 		"area": "Machine Learning for Signal Processing",
-		"deadline": "5/1/2016 23:59:59 UTC",
-		"link": "http://mlsp2016.conwiz.dk/"
+		"deadline": "5/28/2016 23:59:59 UTC",
+		"link": "http://mlsp2017.conwiz.dk/",
+		"location": "Roppongi, Tokyo, Japan"
 	},
 	{
 		"venue": "ECAI",
 		"area": "AI",
-		"deadline": "4/15/2016 23:59:59 UTC+1",
-		"link": "http://www.ecai2016.org"
+		"deadline": "5/15/2017 23:59:59 UTC+1",
+		"link": "http://ecai.ro",
+		"location": "Targoviste, Romania"
 	},
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
 		"deadline": "2/24/2017 23:59 UTC",
-		"link": "http://icml.cc"
+		"link": "http://icml.cc",
+		"location": "Sydney, Australia"
 	},
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
 		"deadline": "2/17/2017 23:59 UTC-8",
-		"link": "http://www.kdd.org"
+		"link": "http://www.kdd.org",
+		"location": "Halifax, Nova Scotia, Canada"
 	},
 	{
 		"venue": "UAI", 
 		"area": "Machine Learning", 
 		"deadline": "3/1/2016 23:59 UTC",
-		"link": "http://auai.org/"
+		"link": "http://auai.org/",
+		"location": "Sydney, Australia"
 	}
 ]
