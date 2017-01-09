@@ -57,7 +57,8 @@
 		"venue": "IJCAI",
 		"area": "AI",
 		"deadline": "2/19/2017 23:59 UTC+12",
-		"link": "http://ijcai-17.org"
+		"link": "http://ijcai-17.org",
+		"location": "Melbourne, Australia"
 	},
 	{
 		"venue": "ECML-PKDD",
@@ -92,7 +93,7 @@
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
-		"deadline": "2/12/2016 23:59 UTC-8",
+		"deadline": "2/17/2017 23:59 UTC-8",
 		"link": "http://www.kdd.org"
 	},
 	{

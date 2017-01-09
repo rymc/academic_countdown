@@ -96,8 +96,12 @@ function refreshDeadline(i, dl, dc, deadlines__){
   var timeLeft = new Date(dl.deadline.getTime() - dc.getTime());
 
   var venue = dl.venue;
+
+  if("location" in dl)
+    venue = venue + "  (" + dl.location + ")";
+
   if("link" in dl)
-    venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";
+    venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";  
 
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
