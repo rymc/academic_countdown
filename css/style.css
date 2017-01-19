@@ -1,0 +1,128 @@
+/* Some resetting */
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  color: #222;
+}
+
+/* Main content div */
+#surround{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 600px;
+  background-color: white;
+}
+
+/* Div that contains all deadlines */
+#deadlinesdiv {
+}
+
+#currtime{
+  font-size: 14px;
+}
+#bottompart{
+  text-align: center;
+}
+
+/* Page title */
+h1{
+  display: inline;
+  margin-right: 10px;
+  font-size: 35px;
+}
+
+/* The cells that contain each deadline */
+.dd{
+  padding: 10px;
+  margin-bottom: 3px;
+  background-color: #EEE;
+  border: 1px solid #DDD;
+  cursor: pointer;
+  position: relative;
+}
+.dd:hover{
+  background-color: #DDD;
+  border: 1px solid #AAA;
+}
+
+/* Time left description div */
+.tld {
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+/* Area description div */
+.ad {
+  font-family: monospace;
+}
+
+/* Time description div */
+.td {
+}
+
+/* Venue description div */
+.vd {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* venue link description span */
+.vld:hover {
+  text-decoration:underline;
+  cursor: pointer;
+}
+
+/* Warning div */
+.wd {
+  position: absolute;
+  bottom: 10px;
+  right: 8px;
+  color: #700;
+  font-size: 10px;
+}
+.hd{
+  position: absolute;
+  top: 5px;
+  right: 8px;
+  color: #808080;
+  font-size: 10px;
+}
+
+#backface {
+  position: fixed;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  background-color: white;
+  display: none;
+  z-index: 888;
+}
+#backfacetext {
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  font-size: 28px;
+  width: 50%;
+  color: #555;
+  font-weight: bold;
+  z-index: 889;
+}
+#makeown {
+  text-decoration: underline;
+  color: #008;
+  cursor: pointer;
+}
+
+#instrown {
+  display: none;
+  background-color: #EEE;
+  border-radius: 5px;
+  padding: 5px;
+}
