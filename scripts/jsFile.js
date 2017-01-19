@@ -1,4 +1,4 @@
-var datasource = "../data/data.json"
+var datasource = "./data/data.json"
 var backi= -1;
 
 // HELPER FUNCTIONS
