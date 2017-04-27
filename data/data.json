@@ -108,5 +108,13 @@
 		"deadline": "3/31/2017 23:59 UTC-11",
 		"link": "http://auai.org/",
 		"location": "Sydney, Australia"
+	},
+	{
+		"venue": "CVPR",
+		"area": "Computer Vision",
+		"deadline": "11/15/2016 1:00 UTC",
+		"link": "http://cvpr2017.thecvf.com/",
+		"location": "Honolulu, Hawwaii"
 	}
+
 ]
