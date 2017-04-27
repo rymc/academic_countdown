@@ -122,6 +122,12 @@
 		"deadline": "05/16/2017 23:59 UTC",
 		"link": "http://cikm2017.org/#firstPage",
 		"location": "Pan Pacific Singapore"
+	},
+	{
+		"venue": "IDA",
+		"area": "Data Mining",
+		"deadline": "05/19/2017 23:59 UTC",
+		"link": "http://www.dcs.bbk.ac.uk/ida2017/",
+		"location": "London, UK"
 	}
-
 ]
