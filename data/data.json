@@ -115,6 +115,13 @@
 		"deadline": "11/15/2016 1:00 UTC",
 		"link": "http://cvpr2017.thecvf.com/",
 		"location": "Honolulu, Hawwaii"
+	},
+	{
+		"venue": "CIKM",
+		"area": "Information and knowledge management",
+		"deadline": "05/16/2017 23:59 UTC",
+		"link": "http://cikm2017.org/#firstPage",
+		"location": "Pan Pacific Singapore"
 	}
 
 ]
