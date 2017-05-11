@@ -129,5 +129,12 @@
 		"deadline": "05/19/2017 23:59 UTC",
 		"link": "http://www.dcs.bbk.ac.uk/ida2017/",
 		"location": "London, UK"
+	},
+	{
+		"venue": "ISMIR",
+		"area": "Music-related information retrieval",
+		"deadline": "4/21/2017 23:59 UTC",
+		"link": "https://ismir2017.smcnus.org/",
+		"location": "Suzhou, China"
 	}
 ]
