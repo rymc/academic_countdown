@@ -144,6 +144,13 @@
 		"link": "https://2018.ieeeicassp.org/",
 		"location": "Seoul, Korea"
 	},
+	{
+		"venue": "ICDE",
+		"area": "Data Engineering and Data Mining",
+		"deadline": "09/29/2017",
+		"link": "https://icde2018.org/",
+		"location": "Paris, France"
+	},
 	
 	
 ]
